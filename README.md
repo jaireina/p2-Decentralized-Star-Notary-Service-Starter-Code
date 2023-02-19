@@ -18,9 +18,6 @@ METAMASK_MNEMONIC=your seed words here
 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-### ToDo
-
-This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 ### Dependencies
 
@@ -109,7 +106,7 @@ npm run dev
 
 ### Important
 
-When you will add a new Rinkeyby Test Network in your Metamask client, you will have to provide:
+When you will add a new Test Network in your Metamask client, you will have to provide:
 
 | Network Name      | New RPC URL              | Chain ID |
 | ----------------- | ------------------------ | -------- |
